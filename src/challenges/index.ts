@@ -12,6 +12,9 @@ import { d1Data } from "./data/day1";
 import { d6c1, d6c2 } from "./day6";
 import { d6Data } from "./data/day6";
 
+import { d7c1, d7c2 } from "./day7";
+import { d7Data } from "./data/day7";
+
 export {
     d1c1,
     d1c2,
@@ -30,5 +33,8 @@ export {
     d5c1,
     d5c2,
     d6c1,
-    d6c2
+    d6c2,
+    d7c1,
+    d7c2,
+    d7Data
 };
