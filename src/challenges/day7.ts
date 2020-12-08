@@ -67,7 +67,6 @@ function prepareData(data: string[]): BagContent[] {
 let bagsWithContent: BagContent[] = [];
 export function d7c2(data: string[]): number {
     bagsWithContent = prepareData(data);
-
     const shinyBag = findBagByName("shiny gold");
     let answer = 0;
     shinyBag.content.forEach((shinyBagContent) => {

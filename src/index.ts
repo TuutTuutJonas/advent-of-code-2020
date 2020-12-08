@@ -26,4 +26,8 @@ function solveChallenges() {
     console.log("--------------------");
     console.log("Day 7 - Challenge 1: ", challenges.d7c1(challenges.d7Data));
     console.log("Day 7 - Challenge 2: ", challenges.d7c2(challenges.d7Data));
+
+    console.log("--------------------");
+    console.log("Day 8 - Challenge 1: ", challenges.d8c1(challenges.d8Data));
+    console.log("Day 8 - Challenge 2: ", challenges.d8c2(challenges.d8Data));
 }
