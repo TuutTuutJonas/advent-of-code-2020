@@ -8,7 +8,7 @@ export function d8c1(data: string[]): number {
 
 
 // ------------------------------------------------------------------------------------------
-// Challenge 2 - Before any instruction is executed a second time, what value is accumulator?
+// Challenge 2 - What is the value of the accumulator after the program terminates?
 // ------------------------------------------------------------------------------------------
 export function d8c2(data: string[]): number {
     const instructions = prepareData(data);
