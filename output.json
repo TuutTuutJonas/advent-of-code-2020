@@ -1,0 +1,288 @@
+[
+  {
+    "joltage": 1,
+    "options": 1,
+    "nested": [
+      {
+        "joltage": 4,
+        "options": 3,
+        "nested": [
+          {
+            "joltage": 5,
+            "options": 2,
+            "nested": [
+              {
+                "joltage": 6,
+                "options": 1,
+                "nested": [
+                  {
+                    "joltage": 7,
+                    "options": 1,
+                    "nested": [
+                      {
+                        "joltage": 10,
+                        "options": 2,
+                        "nested": [
+                          {
+                            "joltage": 11,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 12,
+                                "options": 1,
+                                "nested": [
+                                  {
+                                    "joltage": 15,
+                                    "options": 1,
+                                    "nested": [
+                                      {
+                                        "joltage": 16,
+                                        "options": 1,
+                                        "nested": [
+                                          {
+                                            "joltage": 19,
+                                            "options": 0,
+                                            "nested": []
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "joltage": 12,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 15,
+                                "options": 1,
+                                "nested": [
+                                  {
+                                    "joltage": 16,
+                                    "options": 1,
+                                    "nested": [
+                                      {
+                                        "joltage": 19,
+                                        "options": 0,
+                                        "nested": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "joltage": 7,
+                "options": 1,
+                "nested": [
+                  {
+                    "joltage": 10,
+                    "options": 2,
+                    "nested": [
+                      {
+                        "joltage": 11,
+                        "options": 1,
+                        "nested": [
+                          {
+                            "joltage": 12,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 15,
+                                "options": 1,
+                                "nested": [
+                                  {
+                                    "joltage": 16,
+                                    "options": 1,
+                                    "nested": [
+                                      {
+                                        "joltage": 19,
+                                        "options": 0,
+                                        "nested": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "joltage": 12,
+                        "options": 1,
+                        "nested": [
+                          {
+                            "joltage": 15,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 16,
+                                "options": 1,
+                                "nested": [
+                                  {
+                                    "joltage": 19,
+                                    "options": 0,
+                                    "nested": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "joltage": 6,
+            "options": 1,
+            "nested": [
+              {
+                "joltage": 7,
+                "options": 1,
+                "nested": [
+                  {
+                    "joltage": 10,
+                    "options": 2,
+                    "nested": [
+                      {
+                        "joltage": 11,
+                        "options": 1,
+                        "nested": [
+                          {
+                            "joltage": 12,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 15,
+                                "options": 1,
+                                "nested": [
+                                  {
+                                    "joltage": 16,
+                                    "options": 1,
+                                    "nested": [
+                                      {
+                                        "joltage": 19,
+                                        "options": 0,
+                                        "nested": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "joltage": 12,
+                        "options": 1,
+                        "nested": [
+                          {
+                            "joltage": 15,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 16,
+                                "options": 1,
+                                "nested": [
+                                  {
+                                    "joltage": 19,
+                                    "options": 0,
+                                    "nested": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "joltage": 7,
+            "options": 1,
+            "nested": [
+              {
+                "joltage": 10,
+                "options": 2,
+                "nested": [
+                  {
+                    "joltage": 11,
+                    "options": 1,
+                    "nested": [
+                      {
+                        "joltage": 12,
+                        "options": 1,
+                        "nested": [
+                          {
+                            "joltage": 15,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 16,
+                                "options": 1,
+                                "nested": [
+                                  {
+                                    "joltage": 19,
+                                    "options": 0,
+                                    "nested": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "joltage": 12,
+                    "options": 1,
+                    "nested": [
+                      {
+                        "joltage": 15,
+                        "options": 1,
+                        "nested": [
+                          {
+                            "joltage": 16,
+                            "options": 1,
+                            "nested": [
+                              {
+                                "joltage": 19,
+                                "options": 0,
+                                "nested": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
