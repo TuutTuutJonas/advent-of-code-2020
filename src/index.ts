@@ -38,4 +38,12 @@ function solveChallenges() {
     console.log("--------------------");
     console.log("Day 10 - Challenge 1: ", challenges.d10c1(challenges.d10Data));
     console.log("Day 10 - Challenge 2: ", challenges.d10c2(challenges.d10Data));
+
+    console.log("--------------------");
+    console.log("Day 11 - Challenge 1: ", challenges.d11c1(challenges.d11Data));
+    console.log("Day 11 - Challenge 2: ", challenges.d11c2(challenges.d11Data));
+
+    console.log("--------------------");
+    console.log("Day 12 - Challenge 1: ", challenges.d12c1(challenges.d12Data));
+    console.log("Day 12 - Challenge 2: ", challenges.d12c2(challenges.d12Data));
 }

@@ -6,7 +6,7 @@
     "license": "MIT",
     "scripts": {
         "solve": "rm -rf dist && jest && tsc && node ./dist/index.js && rm -rf dist",
-        "solve-one": "rm -rf dist && tsc && node ./dist/challenges/day11.js",
+        "solve-one": "rm -rf dist && tsc && node ./dist/challenges/day12.js",
         "test": "jest"
     },
     "devDependencies": {
