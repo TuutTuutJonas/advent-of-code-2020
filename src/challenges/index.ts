@@ -29,6 +29,9 @@ import { d11Data } from "../challenges/data/day11";
 import { d12c1, d12c2 } from "../challenges/day12";
 import { d12Data } from "../challenges/data/day12";
 
+import { d13c1, d13c2 } from "../challenges/day13";
+import { d13Data } from "../challenges/data/day13";
+
 export {
     d1c1,
     d1c2,
@@ -65,5 +68,8 @@ export {
     d11Data,
     d12c1,
     d12c2,
-    d12Data
+    d12Data,
+    d13c1,
+    d13c2,
+    d13Data
 };
